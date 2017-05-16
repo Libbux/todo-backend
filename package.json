@@ -1,0 +1,15 @@
+{
+  "name": "todo-backend",
+  "version": "0.0.1",
+  "description": "Backend for the ReactJS todo app",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jonathan Libby",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.9"
+  }
+}
